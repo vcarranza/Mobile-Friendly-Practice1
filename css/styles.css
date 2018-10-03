@@ -1,0 +1,26 @@
+.container-fluid{
+  padding 2em;
+}
+
+.header{
+  height:200px;
+}
+.nav{
+  height:100px;
+}
+.section{
+  height:100px;
+}
+.Aside{
+  height:50px;
+}
+.col-md-3{
+  height:150px;
+  background-color:orange;
+}
+.footer{
+  height:100px;
+}
+header,nav,section,aside,.col-md-3,footer{
+  border: 2 solid black;
+}
